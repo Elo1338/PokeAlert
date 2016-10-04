@@ -2,7 +2,7 @@
     <string name="clear_map">Säubere Karte</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
-    <string name="trainer_login_description">!!DO NOT USE YOUR OFFICIAL ACCOUNT!!\n\nCreate a separate account at https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
+    <string name="trainer_login_description">!!BENUTZE NICHT DEINEN OFFIZIELLEN ACCOUNT!!\n\nErstell hier einen neuen Account: https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
     <string name="hint_trainer_username">Pokemon Trainer Club Benutzername</string>
     <string name="hint_trainer_password">Pokemon Trainer Club Passwort</string>
     <string name="filter_management">Filter Management</string>
